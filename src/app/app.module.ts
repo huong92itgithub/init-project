@@ -8,6 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { FooterComponent } from './footer/footer.component';
+import { FourComponentComponent } from './four-component/four-component.component';
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
 
@@ -16,6 +17,7 @@ import { FirstComponentComponent } from './first-component/first-component.compo
     AppComponent,
     HeaderComponent,
     FooterComponent,
+    FourComponentComponent,
     BodyComponent,
     FirstComponentComponent
   ],
