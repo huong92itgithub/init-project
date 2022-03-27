@@ -10,6 +10,7 @@ import { environment } from '../environments/environment';
 import { FooterComponent } from './footer/footer.component';
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
+import { ThirdComponentComponent } from './third-component/third-component.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { FirstComponentComponent } from './first-component/first-component.compo
     HeaderComponent,
     FooterComponent,
     BodyComponent,
-    FirstComponentComponent
+    FirstComponentComponent,
+    ThirdComponentComponent
   ],
   imports: [
     BrowserModule,
