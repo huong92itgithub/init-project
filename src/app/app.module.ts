@@ -21,7 +21,9 @@ import { SixComponentComponent } from './six-component/six-component.component';
     BodyComponent,
     FirstComponentComponent,
     ThirdComponentComponent,
-    SixComponentComponent
+    SixComponentComponent,
+    BodyComponent,
+    FirstComponentComponent
   ],
   imports: [
     BrowserModule,
