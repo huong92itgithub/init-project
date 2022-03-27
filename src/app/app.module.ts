@@ -9,6 +9,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 <<<<<<< HEAD
 import { FooterComponent } from './footer/footer.component';
+import { FourComponentComponent } from './four-component/four-component.component';
 =======
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
@@ -19,7 +20,8 @@ import { FirstComponentComponent } from './first-component/first-component.compo
     AppComponent,
     HeaderComponent,
 <<<<<<< HEAD
-    FooterComponent
+    FooterComponent,
+FourComponentComponent
 =======
     BodyComponent,
     FirstComponentComponent
