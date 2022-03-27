@@ -7,25 +7,19 @@ import { HeaderComponent } from './header/header.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
-<<<<<<< HEAD
 import { FooterComponent } from './footer/footer.component';
 import { FourComponentComponent } from './four-component/four-component.component';
-=======
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
->>>>>>> init/feature-rebase-002
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-<<<<<<< HEAD
     FooterComponent,
-FourComponentComponent
-=======
+    FourComponentComponent,
     BodyComponent,
     FirstComponentComponent
->>>>>>> init/feature-rebase-002
   ],
   imports: [
     BrowserModule,
