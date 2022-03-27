@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
 import { ThirdComponentComponent } from './third-component/third-component.component';
+import { SixComponentComponent } from './six-component/six-component.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ThirdComponentComponent } from './third-component/third-component.compo
     FooterComponent,
     BodyComponent,
     FirstComponentComponent,
-    ThirdComponentComponent
+    ThirdComponentComponent,
+    SixComponentComponent
   ],
   imports: [
     BrowserModule,
