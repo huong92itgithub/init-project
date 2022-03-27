@@ -12,6 +12,9 @@ import { FourComponentComponent } from './four-component/four-component.componen
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
 import { FiveComponentComponent } from './five-component/five-component.component';
+import { ThirdComponentComponent } from './third-component/third-component.component';
+import { SixComponentComponent } from './six-component/six-component.component';
+import { SevenComponentComponent } from './seven-component/seven-component.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +24,12 @@ import { FiveComponentComponent } from './five-component/five-component.componen
     FourComponentComponent,
     BodyComponent,
     FirstComponentComponent,
-    FiveComponentComponent
+    FiveComponentComponent,
+    ThirdComponentComponent,
+    SixComponentComponent,
+    BodyComponent,
+    FirstComponentComponent,
+    SevenComponentComponent
   ],
   imports: [
     BrowserModule,
