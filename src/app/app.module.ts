@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { FourComponentComponent } from './four-component/four-component.component';
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
+import { FiveComponentComponent } from './five-component/five-component.component';
 import { ThirdComponentComponent } from './third-component/third-component.component';
 import { SixComponentComponent } from './six-component/six-component.component';
 import { SevenComponentComponent } from './seven-component/seven-component.component';
@@ -23,6 +24,7 @@ import { SevenComponentComponent } from './seven-component/seven-component.compo
     FourComponentComponent,
     BodyComponent,
     FirstComponentComponent,
+    FiveComponentComponent,
     ThirdComponentComponent,
     SixComponentComponent,
     BodyComponent,
