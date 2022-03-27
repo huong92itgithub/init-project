@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { FourComponentComponent } from './four-component/four-component.component';
 import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
+import { FiveComponentComponent } from './five-component/five-component.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FirstComponentComponent } from './first-component/first-component.compo
     FooterComponent,
     FourComponentComponent,
     BodyComponent,
-    FirstComponentComponent
+    FirstComponentComponent,
+    FiveComponentComponent
   ],
   imports: [
     BrowserModule,
