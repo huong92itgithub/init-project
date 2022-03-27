@@ -12,6 +12,7 @@ import { BodyComponent } from './body/body.component';
 import { FirstComponentComponent } from './first-component/first-component.component';
 import { ThirdComponentComponent } from './third-component/third-component.component';
 import { SixComponentComponent } from './six-component/six-component.component';
+import { SevenComponentComponent } from './seven-component/seven-component.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { SixComponentComponent } from './six-component/six-component.component';
     ThirdComponentComponent,
     SixComponentComponent,
     BodyComponent,
-    FirstComponentComponent
+    FirstComponentComponent,
+    SevenComponentComponent
   ],
   imports: [
     BrowserModule,
